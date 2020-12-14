@@ -2,6 +2,8 @@
 using namespace std;
 #include "getVolumeSurface.h"
 
+//No.6_酒井大輔
+
 int main()
 {
 	bool OK_Size;
